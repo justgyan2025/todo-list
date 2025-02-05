@@ -1,17 +1,3 @@
-// Firebase Configuration
-const firebaseConfig = {
-    apiKey: "AIzaSyDjTxs7yqLgw0edwmkVkU7doKFi-m9LB4g",
-    authDomain: "todo-app-4f585.firebaseapp.com",
-    projectId: "todo-app-4f585",
-    storageBucket: "todo-app-4f585.firebasestorage.app",
-    messagingSenderId: "288074255372",
-    appId: "1:288074255372:web:b77f87610041d2ba473229",
-    measurementId: "G-GCW9TFWHXR"
-  };
-
-   // Initialize Firebase
-   const app = initializeApp(firebaseConfig);
-   const analytics = getAnalytics(app);
 
 
 
